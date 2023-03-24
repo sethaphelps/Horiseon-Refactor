@@ -8,9 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* 
-Header 
-*/
+/* Header */
 
 header {
     padding: 20px;
@@ -27,6 +25,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Changed div to nav for fixed nav bar on browser */
 
 header nav {
     padding-top: 15px;
@@ -54,9 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* 
-     Hero Image
-*/
+/* Hero Image */
 
 .hero {
     height: 800px;
@@ -83,9 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/*
-    Classes for Aside
-*/
+/* Classes for Aside */
 
 .benefits {
     margin-right: 20px;
@@ -114,9 +110,7 @@ p {
     max-width: 150px;
 }
 
-/* 
-    Consolidated CSS Classes and Selectors Eliminating Repetition
-*/
+/* CSS Classes and Selectors */
 
 section.content article {
     margin-bottom: 20px;
@@ -136,9 +130,7 @@ section.content article h2 {
     font-size: 36px;
 }
 
-/*
-    Removed Redundent Class Footer for Element Footer
-*/
+/* Footer */
 
 footer {
     padding: 30px;
